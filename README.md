@@ -42,7 +42,9 @@ WhatsApp: +55 (62) 99999-0279
 Email: karenmidiadigital@gmail.com
 
 Michelle Karen
-![Logomarca](logomarca.png)
+<p align="center">
+  <img src="logomarca.png" width="180">
+</p>
 Fundadora da Karen Mídia Digital
 
 Estratégia • Visibilidade • Resultados
