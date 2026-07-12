@@ -1,4 +1,5 @@
 ![Banner](banner.jpeg)
+
 # Karen Mídia Digital
 Bem-vindo ao repositório oficial da Karen Mídia Digital.
 Meu nome é Michelle Karen e estou construindo este projeto com foco em posicionamento digital, SEO, Inteligência Artificial e automação para empresas.
@@ -42,9 +43,11 @@ WhatsApp: +55 (62) 99999-0279
 Email: karenmidiadigital@gmail.com
 
 Michelle Karen
+
+Fundadora da Karen Mídia Digital
+
 <p align="center">
   <img src="logomarca.png" width="180">
 </p>
-Fundadora da Karen Mídia Digital
 
 Estratégia • Visibilidade • Resultados
