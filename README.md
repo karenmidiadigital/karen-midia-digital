@@ -18,7 +18,7 @@ A Karen Mídia Digital ajuda empresas a aumentarem sua presença digital por mei
 ## Objetivo
 Este repositório reúne estudos, projetos e ferramentas utilizados no desenvolvimento da Karen Mídia Digital.
 
-## Ferramentas
+## Ferramentas e Plataformas
 - GitHub
 - Apify
 - Google Search Central
@@ -67,3 +67,15 @@ Fundadora da Karen Mídia Digital
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </p>
+
+## Ferramentas e Plataformas
+
+<p align="center">
+<img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Business-34A853?style=for-the-badge&logo=googlebusinessprofile&logoColor=white">
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge">
+<img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white">
+</p>
+
