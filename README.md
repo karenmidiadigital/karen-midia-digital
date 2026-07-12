@@ -1,3 +1,4 @@
+![Banner](banner.jpeg)
 # Karen Mídia Digital
 Bem-vindo ao repositório oficial da Karen Mídia Digital.
 Meu nome é Michelle Karen e estou construindo este projeto com foco em posicionamento digital, SEO, Inteligência Artificial e automação para empresas.
